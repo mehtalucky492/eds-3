@@ -410,7 +410,7 @@
         },
         {
           "title": "Otsuka Text",
-          "id": "text",
+          "id": "otsuka-text",
           "plugins": {
             "xwalk": {
               "page": {
