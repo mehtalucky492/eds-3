@@ -841,6 +841,16 @@
     ]
   },
   {
+    "id": "otsuka-text",
+    "fields": [
+      {
+        "component": "text",
+        "name": "text-id",
+        "label": "Text ID"
+      }
+    ]
+  },
+  {
     "id": "panels",
     "fields": [
       {
