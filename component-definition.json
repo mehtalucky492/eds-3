@@ -409,6 +409,22 @@
           }
         },
         {
+          "title": "Otsuka Text",
+          "id": "text",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/text/v1/text",
+                "template": {
+                  "attributes": {
+                    "id": "id"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Panels",
           "id": "panels",
           "plugins": {
