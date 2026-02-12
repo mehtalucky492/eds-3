@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/lekh-opa/:/",
-    "/content/lekh-opa/configuration:/.helix/config.json",
-    "/content/lekh-opa/metadata:/metadata.json"
+    "/content/eds3/:/",
+    "/content/eds3/configuration:/.helix/config.json",
+    "/content/eds3/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/lekh-opa/"
+    "/content/eds3/"
   ]
 }
