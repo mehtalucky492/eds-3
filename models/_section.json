@@ -192,7 +192,8 @@
         "slides",
         "video",
         "opa-accordion",
-        "opa-tabs"
+        "opa-tabs",
+        "otsuka-text"
       ]
     }
   ]
